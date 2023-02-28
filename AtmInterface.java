@@ -63,7 +63,7 @@ class AtmI{
             return l;
         }
 }
-public class atmInt {
+public class AtmInterface {
     public static void main(String[] args) {
 
        int UserId=6397;
@@ -105,4 +105,5 @@ public class atmInt {
            break;
        }
       }}}
+
 
